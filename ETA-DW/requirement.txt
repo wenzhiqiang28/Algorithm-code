@@ -1,0 +1,6 @@
+
+### Step 4: `requirements.txt` – Required Python packages
+
+```txt
+numpy
+scipy
